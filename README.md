@@ -7,13 +7,17 @@ Este design foi criado pelo meu irmão, especialista em UX/UI Design 🎨. Ele f
 ### Funcionalidades e Características:
 Mockups interativos: A página conta com imagens de mockups do aplicativo SumUp mostrando como o serviço Pix é integrado na plataforma 📲.
 
-### Vantagens para Negócios: Um carrossel interativo destaca os benefícios de utilizar o Pix na SumUp, como a gratuidade e a possibilidade de receber pagamentos durante fins de semana e feriados 🏦.
+### Vantagens para Negócios: 
+Um carrossel interativo destaca os benefícios de utilizar o Pix na SumUp, como a gratuidade e a possibilidade de receber pagamentos durante fins de semana e feriados 🏦.
 
-### Explicação sobre as Chaves Pix: A seção esclarece o conceito das chaves Pix e como elas funcionam, além de mostrar os diferentes tipos de chave (CPF, e-mail, número de celular, chave aleatória) 🔑.
+### Explicação sobre as Chaves Pix:
+A seção esclarece o conceito das chaves Pix e como elas funcionam, além de mostrar os diferentes tipos de chave (CPF, e-mail, número de celular, chave aleatória) 🔑.
 
-### Perguntas Frequentes (FAQ): Uma seção interativa para responder dúvidas comuns sobre o funcionamento do Pix e suas vantagens ❓.
+### Perguntas Frequentes (FAQ):
+Uma seção interativa para responder dúvidas comuns sobre o funcionamento do Pix e suas vantagens ❓.
 
-### Design Responsivo: A página é otimizada para ser visualizada em diferentes dispositivos, com um layout moderno e dinâmico 💻📱.
+### Design Responsivo:
+A página é otimizada para ser visualizada em diferentes dispositivos, com um layout moderno e dinâmico 💻📱.
 
 ## Tecnologias Utilizadas:
 HTML: Estrutura da página com semântica clara e organizada.
