@@ -1,30 +1,27 @@
-# Pix na SumUp - Landing Page 🚀
-Este projeto é uma Landing Page desenvolvida para promover o uso do Pix na SumUp 💸, uma solução de pagamento rápida, sem taxas, e disponível 24h por dia ⏰. A página foi criada para destacar as vantagens do Pix para empresas e como os usuários podem se cadastrar para utilizar esse sistema de pagamentos instantâneos através do aplicativo SumUp 📱.
+# 🚀 Pix na SumUp - Landing Page
+Landing Page desenvolvida para divulgar os benefícios do Pix na SumUp 💸 — uma forma de pagamento instantânea, gratuita e disponível 24 horas por dia, todos os dias da semana (inclusive feriados!) ⏰
 
-### Sobre o Projeto:
-Este design foi criado pelo meu irmão, especialista em UX/UI Design 🎨. Ele focou na criação de uma experiência de usuário intuitiva, com uma interface clara e moderna, além de otimizar a navegação para todos os tipos de dispositivo.
+## 📌 Sobre o Projeto
+O layout foi criado pelo meu irmão, designer especialista em UX/UI 🎨, pensando numa navegação simples, moderna e 100% responsiva. A proposta é mostrar como o Pix pode ser vantajoso para quem vende — e como ativá-lo direto no app da SumUp 📱.
 
-### Funcionalidades e Características:
-Mockups interativos: A página conta com imagens de mockups do aplicativo SumUp mostrando como o serviço Pix é integrado na plataforma 📲.
+### ⚙️ Funcionalidades
+Mockups interativos mostrando a interface do app SumUp com o Pix ativado 📲
 
-### Vantagens para Negócios: 
-Um carrossel interativo destaca os benefícios de utilizar o Pix na SumUp, como a gratuidade e a possibilidade de receber pagamentos durante fins de semana e feriados 🏦.
+Carrossel dinâmico destacando as vantagens de receber via Pix (sem taxas, instantâneo, 24h) 💥
 
-### Explicação sobre as Chaves Pix:
-A seção esclarece o conceito das chaves Pix e como elas funcionam, além de mostrar os diferentes tipos de chave (CPF, e-mail, número de celular, chave aleatória) 🔑.
+Seção sobre Chaves Pix explicando como funcionam e os tipos disponíveis (CPF, e-mail, celular e chave aleatória) 🔑
 
-### Perguntas Frequentes (FAQ):
-Uma seção interativa para responder dúvidas comuns sobre o funcionamento do Pix e suas vantagens ❓.
+FAQ interativo com dúvidas frequentes sobre o serviço ❓
 
-### Design Responsivo:
-A página é otimizada para ser visualizada em diferentes dispositivos, com um layout moderno e dinâmico 💻📱.
+Design responsivo: funciona lindamente em desktop, tablet e celular 💻📱
 
-## Tecnologias Utilizadas:
-HTML: Estrutura da página com semântica clara e organizada.
+### 💻 Tecnologias Usadas
+HTML5: estrutura bem organizada e semântica
 
-CSS: Estilos responsivos para garantir que a página se ajuste a diferentes tamanhos de tela.
+CSS3: layout moderno e adaptável
 
-JavaScript: Funcionalidade de interatividade, como o carrossel e a seção de perguntas frequentes.
+JavaScript: interatividade com carrossel e seção de perguntas
 
-## Objetivo do Projeto:
-O objetivo deste projeto é mostrar as vantagens do Pix na SumUp, destacando sua praticidade, segurança e custo-benefício para os negócios 💡. A página foi projetada para ser clara e objetiva, incentivando o cadastro de novos usuários no sistema.
+### 🎯 Objetivo
+O projeto tem como missão mostrar de forma clara e objetiva como o Pix pode ser uma mão na roda pra quem empreende. É rápido, sem taxas e super prático! Essa landing foi pensada pra incentivar o uso e facilitar o cadastro direto no app da SumUp 💡✨
+
